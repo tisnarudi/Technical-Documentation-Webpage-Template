@@ -3,5 +3,5 @@ An example of one-page technical documentation. Built without using Framework an
 
 Feel free to replace the dummy text Lorem Ipsum. Change color themes. Remove/add features, and modify the code to suit your own needs.
 
-Desktop View
+## Desktop View
 <img src="image/desktop-view.png" width="800">
