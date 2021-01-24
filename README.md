@@ -5,3 +5,12 @@ Feel free to replace the dummy text Lorem Ipsum. Change color themes. Remove/add
 
 ## Desktop View
 <img src="image/desktop-view.png" width="800">
+
+## Mobile Navbar View
+<img src="image/mobile-navbar-view.png" width="441">
+
+## Mobile Menu View
+<img src="image/mobile-menu-view.png" width="441">
+
+## Feedback Desktop View
+<img src="image/feedback.png" width="800">
